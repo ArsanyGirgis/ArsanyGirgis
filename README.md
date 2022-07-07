@@ -13,10 +13,9 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/arsany-girgis-2566a9234/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/arsany-girgis-2566a9234/#gh-dark-mode-only)
 &nbsp;&nbsp;
-
 [![website](./img/youtube-light.svg)](https://youtube.com/channel/UCEmePNZSeWH1F8uM0YEppuA#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://youtube.com/channel/UCEmePNZSeWH1F8uM0YEppuA#gh-dark-mode-only)
-&nbsp;&nbsp;
+
 
 ### Languages and Tools:
 
